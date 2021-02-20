@@ -2,7 +2,9 @@
 ![](https://i.giphy.com/media/Vk7VKS50xcSC4/giphy.webp)
 
 # Want to download your spotify playlist?
-I wanted to download songs from a spotify playlist, doing it one by one? No way. So I looked around and nothing seemed to work. So I obviously had to made my own script for it.
+I wanted to download songs from a spotify playlist, doing it one by one? No way. So I looked around and nothing seemed to work. So I obviously had to made my own script for it.  
+This script does not actually download from Spotify, since that is very hard. It instead uses some website I found that seemed to have a lot of songs. https://myfreemp3.vip/  
+It does however get the song data from Spotify
 
 ## 1. Copy all songs in a spotify playlist songs.txt
 Should look something like this:  
